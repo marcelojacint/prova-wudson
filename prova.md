@@ -19,3 +19,4 @@ Período: 1º Período
 | Maria Renata da Silva Bezerra  | 2024211510233    | Equipe Rastha |
 | Bruno Guimaraes Alves  | 2024211510255    | Equipe Rastha |
 | MARCELL TEIXEIRA DE OLIVEIRA MOURA | 2024211510260   | Equipe Rastha |
+| Wildivan Oliveira Rodrigues | 2024211510240  | Equipe Rastha |
