@@ -16,4 +16,5 @@ Período: 1º Período
 | Nome do Aluno  | Matrícula | Equipe   |
 |----------------|-----------|----------|
 | Harison Heim Velôso Filho  | 2024211510242    | Equipe Rastha |
+| Maria Renata da Silva Bezerra  | 2024211510233    | Equipe Rastha |
 
