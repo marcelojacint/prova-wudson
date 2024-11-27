@@ -17,4 +17,4 @@ Período: 1º Período
 |----------------|-----------|----------|
 | Harison Heim Velôso Filho  | 2024211510242    | Equipe Rastha |
 | Maria Renata da Silva Bezerra  | 2024211510233    | Equipe Rastha |
-
+| Bruno Guimaraes Alves  | 2024211510255    | Equipe Rastha |
